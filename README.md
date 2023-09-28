@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, world 👋
+
+*"What's in a name"*, wrote Shakespeare once, 400 years ago. And people around me took it too seriously. Out of the hundred names I'm known by, Rajeshwari is officially on my passport (making it *official*, in case you missed it the first time), and **Gauri** is what I like to go by. My preferred pronouns are she/her/they.
+
+Currently, I'm working on thinking what to say about me and my work here. So hold on, and I'll update you soon! 
+
+Until then, visit me on my [website](https://rajeshwarisingh.com), which is also a work in progress. Story of my life. 🐣
 
 <!--
 **rajeshwari-singh/rajeshwari-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
